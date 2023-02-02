@@ -1,0 +1,18 @@
+.post {
+    padding: 15px 0;
+}
+.post p {
+    font-weight: 700;
+}
+
+.fetch ,
+.btncreate {
+    padding: 15px 30px;
+    background: #cccc;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    color: black;
+    margin-right: 20px;
+    cursor: pointer;
+}
